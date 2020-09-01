@@ -10,7 +10,7 @@ Ceci est le repo pour le site web de formation de PolyAI
 6. Execute cette commande à la racine: `bundle install`
 
 ## Partir le projet localement
-à la racine, rouler cette commande: `bundle exec jekyll serve`
+à la racine du projet, rouler cette commande: `bundle exec jekyll serve`
 Ensuite, ouvrez par vous même cette page dans votre navigateur: `http://localhost:4000/`
 
 Note: Pour voir vos changement, il faut rafraîchir votre page
