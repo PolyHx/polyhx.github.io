@@ -1,4 +1,4 @@
-| [Accueil](index.md) | [Notes de cours](notes-de-cours.md) | [TPs](travaux-pratiques.md) | [Projet Final](projet-final.md) | [Plan de cours](plan-de-cours.md) |
+| [Accueil](index.md) | [Notes de cours](notes-de-cours.md) | [TPs](travaux-pratiques.md) | [Projet final](projet-final.md) | [Plan de cours](plan-de-cours.md) |
 
 Pour les notes de cours, ils apparaîtront ici au fur et à mesure que la session avance! Les slides sont en anglais pour que vous puissiez être à l'aise avec la terminologie
 utilisé dans le domaine et sur le marché, mais le cours sera donné en français.

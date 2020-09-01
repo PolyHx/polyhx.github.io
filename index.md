@@ -1,4 +1,4 @@
-| [Accueil](index.md) | [Notes de cours](notes-de-cours.md) | [TPs](travaux-pratiques.md) | [Projet Final](projet-final.md) | [Plan de cours](plan-de-cours.md) |
+| [Accueil](index.md) | [Notes de cours](notes-de-cours.md) | [TPs](travaux-pratiques.md) | [Projet final](projet-final.md) | [Plan de cours](plan-de-cours.md) |
 
 Ce cours est une introduction aux algorithmes d'apprentissage, un champ de recherche en intelligence artificielle. 
 Ces algorithmes ont pour objectif de permettre à la machine d'apprendre à partir d'exemples. Ce cours se concentre plus sur l’intuition et 
