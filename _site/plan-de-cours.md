@@ -50,8 +50,3 @@ La charge de travail au total (incluant les cours) est d’environ 30 à 60 heur
 
 7. Résumé de la matière et discussion/présentation des méthodes/résultats du concours Kaggle par les étudiants.
     - Le concours se termine exactement à 23:59 le jour avant le cours 7.
-
-
-<p align="center">
-    <img src="./logo_mini_polyai_transparant_fix_ai.png" alt="PolyAI logo">
-</p>

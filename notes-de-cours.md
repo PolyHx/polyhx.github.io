@@ -10,7 +10,3 @@ Voici trois ressources gratuites, mais excellent pour en apprendre plus sur l'ap
 - <a href="https://web.stanford.edu/~hastie/Papers/ESLII.pdf" target="_blank" rel="noopener noreferer">The Elements of Statistical Learning par Trevor Hastie, Robert Tibshirani et Jerome Friedman</a>
 - <a href="https://www.deeplearningbook.org/" target="_blank" rel="noopener noreferer">Livre du Deep Learning par Ian Goodfellow, Yoshua Bengio et Aaron Courville</a>
 - <a href="https://github.com/jakevdp/PythonDataScienceHandbook" target="_blank" rel="noopener noreferer">Python Data Science Handbook</a> 
-
-<p align="center">
-    <img src="./logo_mini_polyai_transparant_fix_ai.png" alt="PolyAI logo">
-</p>

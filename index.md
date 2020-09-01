@@ -47,7 +47,3 @@ Tous les cours sont les **mercredis soirs à 18h** au lien suivant sur **[Zoom](
 ## Commentaires
 
 Si vous avez des critiques constructives pour améliorer le cours, remplissez le <a href="https://forms.gle/BXYCwYLDemsM13Zw8" target="_blank" rel="noopener noreferer">formulaire suivant</a>!
-
-<p align="center">
-    <img src="./logo_mini_polyai_transparant_fix_ai.png" alt="PolyAI logo">
-</p>

@@ -4,7 +4,3 @@ Pour les travaux pratiques, ils ne sont pas obligatoires, mais vraiment recomman
 Ils apparaîtront ici au fur et à mesure que la session avance!
 
 [TP1]()
-
-<p align="center">
-    <img src="./logo_mini_polyai_transparant_fix_ai.png" alt="PolyAI logo">
-</p>
