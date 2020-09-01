@@ -1,3 +1,5 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-dinky
 title: Bienvenue sur le site du cours d'introduction au Machine Learning de PolyAI!
 description: Toutes les ressources nécessaires pour le cours se retrouvera ici! Plan de cours, exercices, notes de cours, et plus encore!
+github:
+    is_project_page: false
