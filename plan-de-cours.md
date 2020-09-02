@@ -4,9 +4,9 @@
 
 Ce cours est une introduction aux algorithmes d'apprentissage, un champ de recherche en intelligence artificielle. Ces algorithmes ont pour objectif de permettre à la machine d'apprendre à partir d'exemples. Ce cours se concentre plus sur l’intuition et les applications pratiques du ML, et moins sur la théorie pure (et donc, moins de maths que d’habitude). Ce cours est aussi conçu plus pour les personnes qui ne veulent pas devenir chercheur en ML, mais ont plutôt besoin des techniques présentes ou veulent développer des nouvelles techniques de ML adapté pour leur domaine d'intérêt.
 
-Chargé de cours: Bowen Peng (Étudiant M.Sc à UdeM sous co-supervision par LIGUM et MILA)
-Email: bo.wen.peng@umontreal.ca
-Consultation/Questions: préférablement après le cours, ou par email.
+Chargé de cours: Bowen Peng (Étudiant M.Sc à UdeM sous co-supervision par LIGUM et MILA)  
+Email: bo.wen.peng@umontreal.ca  
+Consultation/Questions: préférablement après le cours, ou par email.  
 
 Auxiliaires d’enseignement: TBA
 
