@@ -22,6 +22,8 @@ Tous les cours sont les **mercredis soirs de 18h à 20h** au lien suivant sur **
 
 **Note: La date limite pour se désinscrire au cours est le 11 septembre**
 
+## [Plan de cours](plan-de-cours.md)
+
 ## Commentaires
 
 Si vous avez des critiques constructives pour améliorer le cours, remplissez le <a href="https://forms.gle/BXYCwYLDemsM13Zw8" target="_blank" rel="noopener noreferer">formulaire suivant</a>!
