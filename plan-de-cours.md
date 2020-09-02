@@ -19,34 +19,29 @@ Prévoyez 2h de cours et 2-6h de travail/lecture personnelle par semaine si vous
 Un concours de kaggle (en équipe de 2 ou plus) servira de projet et de l’évaluation finale. Le concours dure 4 semaines et commence à partir du cours 3. Il y aura une présentation courte à faire à la fin. Vous présenterez vos méthodes et résultats à vos collègues.
 La charge de travail au total (incluant les cours) est d’environ 30 à 60 heures, dépendamment de la personne et du travail/lecture additionnel effectué pour le concours.
 
+## Horaire du trimestre
 
-1. Introduction et terminologie de l'apprentissage.
+1.  <ins>Mercredi 2 septembre</ins>: Introduction et terminologie de l'apprentissage.
     - Exercices: Introduction à la librairie Numpy et au traitement numérique parallèle.
 
-
-2. Tâches de l'apprentissage, méthodes à base d'histogramme et méthodes à base de voisinage.
+2. <ins>Mercredi 9 septembre</ins>: Tâches de l'apprentissage, méthodes à base d'histogramme et méthodes à base de voisinage.
     - Implémentation des modèles histogramme, k-NN et KDE.
-    - Quiz 1, à compléter avant le cours 3.
+    - **Quiz 1**, à compléter avant le cours 3.
 
-
-3. Cadre général de l'apprentissage, évaluation de performance, sélection de modèle, notion de capacité.
+3. <ins>Mercredi 16 septembre</ins>: Cadre général de l'apprentissage, évaluation de performance, sélection de modèle, notion de capacité.
     - Implémentation des méthodes de sélection. Introduction à la librairie scikit-learn.
-    - Début du concours Kaggle.
+    - **Début du concours Kaggle**.
 
-
-4. Régression et classification linéaire. Descente de gradient.
+4. <ins>Mercredi 23 septembre</ins>: Régression et classification linéaire. Descente de gradient.
     - Implémentation des modèles linéaires. Évaluation de la performance des algorithmes. Introduction à la librairie Pandas.
-    - Quiz 2, à compléter avant le cours 5.
+    - **Quiz 2**, à compléter avant le cours 5.
 
-
-5. Réseaux de neurones de type MLP, backpropagation, deep learning.
+5. <ins>Mercredi 30 septembre</ins>: Réseaux de neurones de type MLP, backpropagation, deep learning.
     - Implémentation du MLP. Entraînement des réseaux de neurones avec la version implémenté en numpy et avec la version de scikit-learn.
 
-
-6. Survol des méthodes d'ensemble, réseaux de neurones convolutifs (CNN), récurrentes (RNN) et apprentissage non-supervisé, réduction de dimensionnalité (PCA, etc.), partitionnement (k-moyennes, etc.).
+6. <ins>Mercredi 7 octobre</ins>: Survol des méthodes d'ensemble, réseaux de neurones convolutifs (CNN), récurrentes (RNN) et apprentissage non-supervisé, réduction de dimensionnalité (PCA, etc.), partitionnement (k-moyennes, etc.).
     - Introduction à la librairie Keras.
-    - Quiz 3, à compléter avant le cours 7.
+    - **Quiz 3**, à compléter avant le cours 7.
 
-
-7. Résumé de la matière et discussion/présentation des méthodes/résultats du concours Kaggle par les étudiants.
+7. <ins>Mercredi 14 octobre</ins>: Résumé de la matière et discussion/présentation des méthodes/résultats du concours Kaggle par les étudiants.
     - Le concours se termine exactement à 23:59 le jour avant le cours 7.
