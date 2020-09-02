@@ -5,3 +5,4 @@ Les travaux pratiques ne sont pas obligatoires, mais il est recommandé de les f
 Vous pouvez les faire seuls ou en équipe. Ils ne seront pas à remettre et ne seront pas notés.  
 Ils apparaîtront ici au fur et à mesure que la session avance après le cours.
 
+1. <a href="https://colab.research.google.com/drive/1loNALZph2WrseXNo8JMhLWZmHlETTiKK" target="_blank" rel="noopener noreferer">NumPy, SciPy and matplotlib</a>
