@@ -1,6 +1,6 @@
 | [Accueil](index.md) | [Notes de cours](notes-de-cours.md) | [TPs](travaux-pratiques.md) | [Projet final](projet-final.md) | [Plan de cours](plan-de-cours.md) |
 
-Pour les notes de cours, ils apparaîtront ici au fur et à mesure que la session avance. Le cours sera donné en français, mais les slides sont en anglais pour que vous puissiez être à l'aise avec la terminologie utilisé dans le domaine et sur le marché.
+Pour les notes de cours, ils apparaîtront ici au fur et à mesure que la session avance. Le cours est donné en français, mais les diapositives sont en anglais pour vous rendre plus à l'aise avec la terminologie utilisée dans le domaine et sur le marché.
 
 1. <a href="https://docs.google.com/presentation/d/12gthsJZ8F9tdSkSy_FLcUlCSquvNsA0E8joL_ok0ufw/edit?usp=sharing" target="_blank" rel="noopener noreferer">Origins and Terminology</a>
 2. Formalism and Introduction to Learning Algorithms
