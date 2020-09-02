@@ -18,7 +18,7 @@ Pour toute question générale, envoyer un courriel à l'adresse suivante: comit
 
 ## Annonces
 
-Tous les cours sont les **mercredis soirs de 18h à 20h** au lien suivant sur **[Zoom](google.com)**.
+Tous les cours sont les **mercredis soirs de 18h à 20h** au lien suivant sur **[Zoom](https://us02web.zoom.us/j/83425667824?pwd=NjZLcmxzakhROTlQdlgwbGlTL1gyQT09)**.
 
 **Note: La date limite pour se désinscrire au cours est le 11 septembre.**
 
