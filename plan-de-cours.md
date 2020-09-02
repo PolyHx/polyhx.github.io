@@ -2,7 +2,7 @@
 
 # Introduction à l’apprentissage automatique (ML) PolyAI - Automne 2020
 
-Version Doc: https://docs.google.com/document/d/1Vx0PZTN0d4ds7_8XGNx4v1ZZYk4TmFMVIn0nT8imcRs/edit?usp=sharing
+Version [Doc](https://docs.google.com/document/d/1Vx0PZTN0d4ds7_8XGNx4v1ZZYk4TmFMVIn0nT8imcRs/edit?usp=sharing)
 
 Ce cours est une introduction aux algorithmes d'apprentissage, un champ de recherche en intelligence artificielle. Ces algorithmes ont pour objectif de permettre à la machine d'apprendre à partir d'exemples. Ce cours se concentre plus sur l’intuition et les applications pratiques du ML, et moins sur la théorie pure (et donc, moins de maths que d’habitude). Ce cours est aussi conçu plus pour les personnes qui ne veulent pas devenir chercheur en ML, mais ont plutôt besoin des techniques présentes ou veulent développer des nouvelles techniques de ML adapté pour leur domaine d'intérêt.
 
