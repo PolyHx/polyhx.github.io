@@ -11,11 +11,13 @@ vous recevrez un certificat indiquant que vous avez réussi le cours! Rappel: la
 
 **Note: La date limite pour se désinscrire au cours est le 11 septembre**
 
-Professeur: Bowen Peng, étudiant à la maîtrise co-supervisé par MILA et LIGUM
+Chargé de cours: Bowen Peng (Étudiant M.Sc à UdeM sous co-supervision par LIGUM et MILA)  
+Email: bo.wen.peng@umontreal.ca  
+Consultation/Questions: préférablement après le cours, ou par email.  
 
-Pour toute question, envoyer un courriel à l'adresse suivante: comitepolyai@gmail.com
+Pour toute question générale, envoyer un courriel à l'adresse suivante: comitepolyai@gmail.com
 
-Tous les cours sont les **mercredis soirs à 18h** au lien suivant sur **[Zoom](google.com)**.
+Tous les cours sont les **mercredis soirs de 18h à 20h** au lien suivant sur **[Zoom](google.com)**.
 
 ## Horaire de la session
 
