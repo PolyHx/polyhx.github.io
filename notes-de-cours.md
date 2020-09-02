@@ -11,7 +11,7 @@ Pour les notes de cours, ils apparaîtront ici au fur et à mesure que la sessio
 7. Kaggle Competition Discussion
 
 ### Ressources externes
-Voici trois ressources gratuites, mais excellent pour en apprendre plus sur l'apprentissage machine.
+Voici trois ressources gratuites, mais excellent pour en apprendre plus sur l'apprentissage automatique.
 - <a href="https://web.stanford.edu/~hastie/Papers/ESLII.pdf" target="_blank" rel="noopener noreferer">The Elements of Statistical Learning</a> par Trevor Hastie, Robert Tibshirani et Jerome Friedman
 - <a href="https://www.deeplearningbook.org/" target="_blank" rel="noopener noreferer">Deep Learning</a> par Ian Goodfellow, Yoshua Bengio et Aaron Courville
 - <a href="https://github.com/jakevdp/PythonDataScienceHandbook" target="_blank" rel="noopener noreferer">Python Data Science Handbook</a> 
