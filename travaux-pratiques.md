@@ -7,3 +7,4 @@ Ils apparaîtront ici au fur et à mesure que la session avance après le cours.
 
 1. [NumPy, SciPy and matplotlib](https://colab.research.google.com/drive/1loNALZph2WrseXNo8JMhLWZmHlETTiKK?usp=sharing)
    * [Solution](https://colab.research.google.com/drive/11M48TE77PHHPhWt2oDxnFnoIK7GK8lDr?usp=sharing)
+2. [Histogram, k-NN and KDE methods](https://colab.research.google.com/drive/1cAMyugnReY-pTO12SnvkQE1a3JEEiHw7?usp=sharing)
