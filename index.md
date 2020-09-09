@@ -22,6 +22,8 @@ Tous les cours sont les **mercredis soirs de 18h à 20h** au lien suivant sur **
 
 **Note: La date limite pour se désinscrire au cours est le 11 septembre.**
 
+Pour encourager la discussion entre les étudiants et pour vous aider a chercher une équipe pour le concours, nous avons créé un groupe discord https://discord.gg/SnZm39G.
+
 ## [Plan de cours](plan-de-cours.md)
 
 ## Commentaires
