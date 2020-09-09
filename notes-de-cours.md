@@ -2,8 +2,8 @@
 
 Pour les notes de cours, ils apparaîtront ici au fur et à mesure que la session avance. Le cours est donné en français, mais les diapositives sont en anglais pour vous rendre plus à l'aise avec la terminologie utilisée dans le domaine et sur le marché.
 
-1. <a href="https://docs.google.com/presentation/d/12gthsJZ8F9tdSkSy_FLcUlCSquvNsA0E8joL_ok0ufw/edit?usp=sharing" target="_blank" rel="noopener noreferer">Origins and Terminology</a>
-2. Formalism and Introduction to Learning Algorithms
+1. [Origins and Terminology](https://docs.google.com/presentation/d/12gthsJZ8F9tdSkSy_FLcUlCSquvNsA0E8joL_ok0ufw/edit?usp=sharing)
+2. [Formalism and Introduction to Learning Algorithms](https://docs.google.com/presentation/d/1lrUgPV3Mbb97T8QS4wSbKKHYSkFlWBi1Z5hJS6KY4tg/edit?usp=sharing)
 3. Loss Functions and Model Selection
 4. Linear and Parametric Models
 5. Activation Functions and Neural Networks
