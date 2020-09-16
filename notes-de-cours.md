@@ -6,7 +6,7 @@ Pour les notes de cours, ils apparaîtront ici au fur et à mesure que la sessio
 2. [Formalism and Introduction to Learning Algorithms](https://docs.google.com/presentation/d/1lrUgPV3Mbb97T8QS4wSbKKHYSkFlWBi1Z5hJS6KY4tg/edit?usp=sharing)
     * [k-NN Interactive Demo](http://vision.stanford.edu/teaching/cs231n-demos/knn/)
     * [Quiz 1](https://docs.google.com/forms/d/e/1FAIpQLSdkb1M3huKLVti0nJwn5WfW437MsfGFEuf6qWUhgTUpxChL-w/viewform)
-3. Loss Functions and Model Selection
+3. [Loss Functions and Model Selection](https://docs.google.com/presentation/d/1qLVp73BGhZ0bJBzsjuKObpJWAuzc926zJFWUtALXAUo/edit?usp=sharing)
 4. Linear and Parametric Models
 5. Activation Functions and Neural Networks
 6. Unsupervised Algorithms, Ensemble Learning and Modern Deep Networks
