@@ -24,6 +24,8 @@ Tous les cours sont les **mercredis soirs de 18h à 20h** au lien suivant sur **
 
 Pour encourager la discussion entre les étudiants et pour vous aider a chercher une équipe pour le concours, nous avons créé un groupe discord [https://discord.gg/SnZm39G](https://discord.gg/SnZm39G).
 
+Lien pour le concours: [https://www.kaggle.com/t/254ee29179e0432bb1532e63c6627fb1](https://www.kaggle.com/t/254ee29179e0432bb1532e63c6627fb1)
+
 ## [Plan de cours](plan-de-cours.md)
 
 ## Commentaires
