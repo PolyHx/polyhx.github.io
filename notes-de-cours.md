@@ -7,7 +7,8 @@ Pour les notes de cours, ils apparaîtront ici au fur et à mesure que la sessio
     * [k-NN Interactive Demo](http://vision.stanford.edu/teaching/cs231n-demos/knn/)
     * [Quiz 1](https://docs.google.com/forms/d/e/1FAIpQLSdkb1M3huKLVti0nJwn5WfW437MsfGFEuf6qWUhgTUpxChL-w/viewform)
 3. [Loss Functions and Model Selection](https://docs.google.com/presentation/d/1qLVp73BGhZ0bJBzsjuKObpJWAuzc926zJFWUtALXAUo/edit?usp=sharing)
-4. Linear and Parametric Models
+4. [Linear and Parametric Models](https://docs.google.com/presentation/d/1MUpD_rFfhsUs97TRS2l919KilYfSvCLAO6t3SJer3eE/edit?usp=sharing)
+    * [Quiz 2](https://docs.google.com/forms/d/e/1FAIpQLSctPGWhIvLCzI0d__rRu-XC2Y179Iar5z69I7F-90OuWLhXmg/viewform)
 5. Activation Functions and Neural Networks
 6. Unsupervised Algorithms, Ensemble Learning and Modern Deep Networks
 7. Kaggle Competition Discussion
