@@ -10,3 +10,4 @@ Ils apparaîtront ici au fur et à mesure que la session avance après le cours.
 2. [Histogram, k-NN and KDE methods](https://colab.research.google.com/drive/1cAMyugnReY-pTO12SnvkQE1a3JEEiHw7?usp=sharing)
    * [Solution](https://colab.research.google.com/drive/1HYt0JbRq6emmDMTYTU4eDoJZwLv05ymv?usp=sharing)
 3. [Model Selection and Cross-Validation](https://colab.research.google.com/drive/1iqs7SHbDF6pY2DkoU6EceQg1wIkRe3dt?usp=sharing)
+   * [Solution](https://colab.research.google.com/drive/1SFWrmbJcdCoeLrkSGyQ8BEopcsNVu0zz?usp=sharing)
