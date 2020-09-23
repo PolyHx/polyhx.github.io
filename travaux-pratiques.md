@@ -11,5 +11,5 @@ Ils apparaîtront ici au fur et à mesure que la session avance après le cours.
    * [Solution](https://colab.research.google.com/drive/1HYt0JbRq6emmDMTYTU4eDoJZwLv05ymv?usp=sharing)
 3. [Model Selection and Cross-Validation](https://colab.research.google.com/drive/1iqs7SHbDF6pY2DkoU6EceQg1wIkRe3dt?usp=sharing)
    * [Solution](https://colab.research.google.com/drive/1SFWrmbJcdCoeLrkSGyQ8BEopcsNVu0zz?usp=sharing)
-4. [Model Selection and Cross-Validation](https://colab.research.google.com/drive/15R-pDM828uK-VhJmzLvrXJ5NAlCW3jQG?usp=sharing)
+4. [Linear Models](https://colab.research.google.com/drive/15R-pDM828uK-VhJmzLvrXJ5NAlCW3jQG?usp=sharing)
    * [Introduction to Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
