@@ -13,3 +13,4 @@ Ils apparaîtront ici au fur et à mesure que la session avance après le cours.
    * [Solution](https://colab.research.google.com/drive/1SFWrmbJcdCoeLrkSGyQ8BEopcsNVu0zz?usp=sharing)
 4. [Linear Models](https://colab.research.google.com/drive/15R-pDM828uK-VhJmzLvrXJ5NAlCW3jQG?usp=sharing)
    * [Introduction to Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
+   * [Solution](https://colab.research.google.com/drive/1TyVcT7qJNHiKHTjpWKVT-j5MYDEZ5jSD)
