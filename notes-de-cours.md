@@ -9,7 +9,7 @@ Pour les notes de cours, ils apparaîtront ici au fur et à mesure que la sessio
 3. [Loss Functions and Model Selection](https://docs.google.com/presentation/d/1qLVp73BGhZ0bJBzsjuKObpJWAuzc926zJFWUtALXAUo/edit?usp=sharing)
 4. [Linear and Parametric Models](https://docs.google.com/presentation/d/1MUpD_rFfhsUs97TRS2l919KilYfSvCLAO6t3SJer3eE/edit?usp=sharing)
     * [Quiz 2](https://docs.google.com/forms/d/e/1FAIpQLSctPGWhIvLCzI0d__rRu-XC2Y179Iar5z69I7F-90OuWLhXmg/viewform)
-5. Activation Functions and Neural Networks
+5. [Activation Functions and Neural Networks](https://docs.google.com/presentation/d/1W0Jx084DOZvtLbZENLQTJe_pOovO860CYmIcE4w64LA/edit?usp=sharing)
 6. Unsupervised Algorithms, Ensemble Learning and Modern Deep Networks
 7. Kaggle Competition Discussion
 
