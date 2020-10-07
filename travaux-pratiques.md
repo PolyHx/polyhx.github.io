@@ -15,4 +15,5 @@ Ils apparaîtront ici au fur et à mesure que la session avance après le cours.
    * [Introduction to Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
    * [Solution](https://colab.research.google.com/drive/1TyVcT7qJNHiKHTjpWKVT-j5MYDEZ5jSD)
 5. [Fully-Connected Neural Networks](https://colab.research.google.com/drive/1s2u4-lQjO3F2YKGVZUFyZqVebz9y0-bL?usp=sharing)
-   
+   * [Solution](https://colab.research.google.com/drive/1t9OFvX-kGYLeWR-y9ZKDiJ9BAWHJcDF5?usp=sharing)
+6. [Keras Tutorial](https://victorzhou.com/blog/keras-cnn-tutorial/)
