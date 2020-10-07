@@ -11,7 +11,7 @@ Pour les notes de cours, ils apparaîtront ici au fur et à mesure que la sessio
     * [Quiz 2](https://docs.google.com/forms/d/e/1FAIpQLSctPGWhIvLCzI0d__rRu-XC2Y179Iar5z69I7F-90OuWLhXmg/viewform)
 5. [Activation Functions and Neural Networks](https://docs.google.com/presentation/d/1W0Jx084DOZvtLbZENLQTJe_pOovO860CYmIcE4w64LA/edit?usp=sharing)
     * [Neural Network Playground](https://playground.tensorflow.org/)
-6. Unsupervised Algorithms, Ensemble Learning and Modern Deep Networks
+6. [Unsupervised Algorithms, Ensemble Learning and Modern Deep Networks](https://docs.google.com/presentation/d/1qMjvrUbNFSXRb1fO7GmyZwcNxWdfAikiuHv9KpfTdQI/edit?usp=sharing)
 7. Kaggle Competition Discussion
 
 ### Ressources externes
