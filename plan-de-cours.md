@@ -45,5 +45,5 @@ La charge de travail au total (incluant les cours) est d’environ 30 à 60 heur
     - Introduction à la librairie Keras.
     - **Quiz 3**, à compléter avant le cours 7.
 
-7. <ins>Mercredi 14 octobre</ins>: Résumé de la matière et discussion/présentation des méthodes/résultats du concours Kaggle par les étudiants.
+7. <ins>Mercredi 27 octobre</ins>: Résumé de la matière et discussion/présentation des méthodes/résultats du concours Kaggle par les étudiants.
     - Le concours se termine exactement à 23:59 le jour avant le cours 7.
